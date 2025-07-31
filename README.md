@@ -1,5 +1,5 @@
 What the project is:
-It is a website that allows individuals to be aware of imposter syndrome and express how they are feeling if dealt with similar situations.
+It is called Imposter Syndrome Guide and it is a website that allows individuals to be aware of imposter syndrome and express how they are feeling if dealt with similar situations.
 
 Why I made it:
 Imposter Syndrome is a real and serious condition and it is important to take action and know easy and healthy ways to cope with it.
